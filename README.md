@@ -1,3 +1,5 @@
+## This repo is forked from [libopencm3](https://github.com/libopencm3/libopencm3) on 10 Dec 2017 to lock the API version.  All CAUV usage of `libopencm3` should reference this as the submodule to ensure compatibility. 
+
 README
 ======
 
